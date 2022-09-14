@@ -1,6 +1,6 @@
-Hola 👋, soy Yesica Santos!
+hola soy David Cardenas tengo 18 y vivo en bogota/colombia👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F747BE&center=falso&vCenter=falso&width=435&lines=Full+Stack+Javascript+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=fira+code&pause=2000&color=0100F7&center=true&width=431&height=51&lines=Full+Stack+;Developer)](https://git.io/typing-svg)
 <!--
 
 hola soy David Cardenas tengo 18 y vivo en bogota/colombia👋
