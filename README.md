@@ -12,6 +12,9 @@ hola soy David Cardenas tengo 18 y vivo en bogota/colombia👋
 [![Typing SVG](https://camo.githubusercontent.com/bc050eb2d16bdd3fc50eef513cf1717ddbafa51a311312ada6b8c49a48632731/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426f6f7473747261702d3739353242332e7376673f6c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465)](https://git.io/typing-svg)
 [![Typing SVG](https://camo.githubusercontent.com/389f5e80e9ded9673b2cdbbcc0787f1cdbff0ca40315bed18b18ca0d8cf02446/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f457870726573732e6a732d3430346435392e7376673f6c6f676f3d65787072657373266c6f676f436f6c6f723d7768697465)](https://git.io/typing-svg)
 
+<p align="left"> <a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="65" height="65"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="65" height="65"/> </a>
+</p>
+
 🗄️ Base de Datos y hosting :
 
 [![Typing SVG](https://camo.githubusercontent.com/fc85f51b2ea80feabeac5903668ca75834070b1e571df743cc5fd4e543859648/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4865726f6b752d3433303039382e7376673f6c6f676f3d6865726f6b75266c6f676f436f6c6f723d7768697465)](https://git.io/typing-svg)
