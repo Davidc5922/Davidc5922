@@ -5,7 +5,7 @@ hola soy David Cardenas tengo 18 y vivo en bogota/colombia👋
 
 🛠️Lenguajes y herramientas:
 <div>
-<img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="50" height="50" align="left"/> 
+<img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="50" height="50" /> 
 <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="50" height="50"/> 
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="50" height="50"/> 
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" width="50" height="50"/> 
