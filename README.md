@@ -1,4 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=fira+code&pause=2000&color=0100F7&center=true&width=925&height=50&lines=Full+Stack+Developer)](https://git.io/typing-svg)
+
+
+
 hola soy David Cardenas tengo 18 y vivo en bogota/colombia  👋 
 
 <!--
