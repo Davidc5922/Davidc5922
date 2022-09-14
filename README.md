@@ -38,7 +38,7 @@ hola soy David Cardenas tengo 18 y vivo en bogota/colombia👋
 [![Typing SVG](https://camo.githubusercontent.com/a0d4ee5c8ade6c8d92532978856e34de4be418cad95073fef0a00536e91802fa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f6c6f676f3d706f73746d616e266c6f676f436f6c6f723d7768697465)](https://git.io/typing-svg)
 
 🚀proyectos principales:
-<video src="https://youtu.be/XUWfz0tg2hg"></video>
+[![Alt text](https://img.youtube.com/vi/XUWfz0tg2hg/0.jpg)](https://www.youtube.com/watch?v=XUWfz0tg2hg)
 
 <!--
 
