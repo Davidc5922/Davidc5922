@@ -1,4 +1,4 @@
-hola soy David Cardenas tengo 18 y vivo en bogota/colombia  👋 [![Typing SVG](https://readme-typing-svg.demolab.com?font=fira+code&pause=2000&color=0100F7&center=true&lines=Full+Stack+;Developer)](https://git.io/typing-svg)
+hola soy David Cardenas tengo 18 y vivo en bogota/colombia  👋[![Typing SVG](https://readme-typing-svg.demolab.com?font=fira+code&pause=2000&color=0100F7&center=true&width=201&lines=Full+Stack+;Developer)](https://git.io/typing-svg)
 
 <!--
 **Davidc5922/Davidc5922** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
