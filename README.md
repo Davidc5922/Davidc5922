@@ -39,7 +39,7 @@ hola soy David Cardenas tengo 18 y vivo en bogota/colombia👋
 
 🚀proyectos principales:
 <video src="https://youtu.be/XUWfz0tg2hg">
-
+<iframe width=»560″ height=»315″ src=»https://youtu.be/XUWfz0tg2hg» frameborder=»0″ allow=»autoplay; encrypted-media» allowfullscreen></iframe>
 <!--
 
 hola soy David Cardenas tengo 18 y vivo en bogota/colombia👋
