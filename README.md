@@ -53,7 +53,7 @@ hola soy David Cardenas tengo 18 y vivo en bogota/colombia👋
 </a>
 
 
-✉<p>davidc5922@gmail.com</p>
+✉davidc5922@gmail.com
 <!--
 
 hola soy David Cardenas tengo 18 y vivo en bogota/colombia👋
