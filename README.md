@@ -1,6 +1,6 @@
 hola soy David Cardenas tengo 18 y vivo en bogota/colombia👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=fira+code&pause=2000&color=0100F7&center=true&width=431&height=51&lines=Full+Stack+;Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=0100F7&center=false&width=431&height=51&lines=Full+Stack+;Developer)](https://git.io/typing-svg)
 <!--
 
 hola soy David Cardenas tengo 18 y vivo en bogota/colombia👋
