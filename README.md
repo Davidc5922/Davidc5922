@@ -46,6 +46,8 @@ hola soy David Cardenas tengo 18 y vivo en bogota/colombia👋
  sección de contacto, login gestión de usuarios, dashboard de administradores y pasarela de pagos</p>
 
 🧍‍♂️Conectemos: 
+
+
 <a href="https://www.linkedin.com/in/david-cardenas-36228523b/">
 <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="50" height="50" /> 
 </a>
