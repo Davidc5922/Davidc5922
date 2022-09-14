@@ -47,7 +47,7 @@ hola soy David Cardenas tengo 18 y vivo en bogota/colombia👋
 
 🗣 conectemos: 
 
-<img src="https://img2.freepng.es/20190516/yv/kisspng-linkedin-computer-icons-social-media-social-networ-h-o-m-e-5cde0927eb1753.6645743415580552079629.jpg" width="50" height="50" /> 
+<img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="50" height="50" /> 
 <!--
 
 hola soy David Cardenas tengo 18 y vivo en bogota/colombia👋
