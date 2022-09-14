@@ -1,7 +1,7 @@
 hola soy David Cardenas tengo 18 y vivo en bogota/colombia👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=0100F7&center=false&width=431&height=51&lines=Full+Stack+;Developer)](https://git.io/typing-svg)
-<p align="left"> <img "https://cdn-icons-png.flaticon.com/512/732/732212.png" width="65" height="65"/> 
+<p align="left"> <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="65" height="65"/> 
 </p>
 🛠️Lenguajes y herramientas:
 
