@@ -45,6 +45,11 @@ hola soy David Cardenas tengo 18 y vivo en bogota/colombia👋
  que incluye: búsquedas, ordenamientos, filtrados en simultaneo, creación de productos, reviews de productos,
  sección de contacto, login gestión de usuarios, dashboard de administradores y pasarela de pagos</p>
 
+[![Alt text](https://david-santiago-cardenas-ibvu.vercel.app/)](https://david-santiago-cardenas-ibvu.vercel.app/)
+<p>Proyecto de Henry Diseñar y desarrollar un E-commerce de de ropa
+ que incluye: búsquedas, ordenamientos, filtrados en simultaneo, creación de productos, reviews de productos,
+ sección de contacto, login gestión de usuarios, dashboard de administradores y pasarela de pagos</p>
+ 
 🧍‍♂️Conectemos: 
 
 
