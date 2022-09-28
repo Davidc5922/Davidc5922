@@ -44,7 +44,7 @@ hola soy David Cardenas tengo 18 y vivo en bogota/colombia👋
  que incluye: búsquedas, ordenamientos, filtrados en simultaneo, creación de productos, reviews de productos,
  sección de contacto, login gestión de usuarios, dashboard de administradores y pasarela de pagos</p>
 
-[![Wiki-dogs.jpg](https://i.postimg.cc/Dwjw5Ymf/Wiki-dogs.jpg)](https://postimg.cc/yDRK8jF2)
+(https://i.postimg.cc/Dwjw5Ymf/Wiki-dogs.jpg)](https://postimg.cc/yDRK8jF2)
 <p>Proyecto de Henry Diseñar y desarrollar un E-commerce de de ropa
  que incluye: búsquedas, ordenamientos, filtrados en simultaneo, creación de productos, reviews de productos,
  sección de contacto, login gestión de usuarios, dashboard de administradores y pasarela de pagos</p>
