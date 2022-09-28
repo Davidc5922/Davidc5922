@@ -51,12 +51,14 @@ hola soy David Cardenas tengo 18 y vivo en bogota/colombia👋
 <p>Es una Single Page Application donde se muestra las distinta razas de perros con información de cada una de las razas utilizando una API externa para obtener la informacion, teniendo la posiblidad de buscar una raza en especifico o filtrar por alguna caracteristica de la raza y tambien teniendo la posibilida de crear o eliminar una raza <a href="https://wiki-dogs-8dwg.vercel.app/" ><p>Link</p></a></p>
 🧍‍♂️Conectemos: 
 
+[👨‍💻](https://david-santiago-cardenas-ibvu.vercel.app/)
+
 <div>
 <a href="https://www.linkedin.com/in/david-cardenas-36228523b/">
 <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="50" height="50" /> 
 </a>
 </div>
-🧑‍💼https://david-santiago-cardenas-ibvu.vercel.app/
+
 ✉davidc5922@gmail.com
 <!--
 
