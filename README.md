@@ -11,6 +11,7 @@ hola soy David Cardenas tengo 18 y vivo en bogota/colombia👋
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" width="50" height="50"/> 
 <img src="https://cdn-icons-png.flaticon.com/512/5815/5815809.png" width="50" height="50"/> 
 <img src="https://i.postimg.cc/Dwjw5Ymf/Wiki-dogs.jpg" width="50" height="50"/> 
+ <a href='https://postimg.cc/yDRK8jF2' target='_blank'><img src='https://i.postimg.cc/yDRK8jF2/Wiki-dogs.jpg' border='0' alt='Wiki-dogs'/></a>
 </div>
 
 
