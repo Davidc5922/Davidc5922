@@ -10,6 +10,7 @@ hola soy David Cardenas tengo 18 y vivo en bogota/colombia👋
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="50" height="50"/> 
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" width="50" height="50"/> 
 <img src="https://cdn-icons-png.flaticon.com/512/5815/5815809.png" width="50" height="50"/> 
+ <img src="https://imagizer.imageshack.com/img923/1334/jcu3hj.jpg" width="50" height="50"/> 
 </div>
 
 🧰 librerias :
