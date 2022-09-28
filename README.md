@@ -39,6 +39,7 @@ hola soy David Cardenas tengo 18 y vivo en bogota/colombia👋
 🚀proyectos principales:
 
 <h1>GAED.JM</h1>
+
 [![Alt text](https://img.youtube.com/vi/XUWfz0tg2hg/0.jpg)](https://www.youtube.com/watch?v=XUWfz0tg2hg)
 <p>Proyecto de Henry Diseñar y desarrollar un E-commerce de de ropa
  que incluye: búsquedas, ordenamientos, filtrados en simultaneo, creación de productos, reviews de productos,
