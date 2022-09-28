@@ -10,7 +10,6 @@ hola soy David Cardenas tengo 18 y vivo en bogota/colombia👋
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="50" height="50"/> 
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" width="50" height="50"/> 
 <img src="https://cdn-icons-png.flaticon.com/512/5815/5815809.png" width="50" height="50"/> 
- <img src="https://imagizer.imageshack.com/img923/1334/jcu3hj.jpg" width="50" height="50"/> 
 </div>
 
 🧰 librerias :
@@ -45,10 +44,8 @@ hola soy David Cardenas tengo 18 y vivo en bogota/colombia👋
  que incluye: búsquedas, ordenamientos, filtrados en simultaneo, creación de productos, reviews de productos,
  sección de contacto, login gestión de usuarios, dashboard de administradores y pasarela de pagos</p>
 
-[![Wiki-dogs.jpg](https://i.postimg.cc/Dwjw5Ymf/Wiki-dogs.jpg)](https://postimg.cc/yDRK8jF2)
-<p>Proyecto de Henry Diseñar y desarrollar un E-commerce de de ropa
- que incluye: búsquedas, ordenamientos, filtrados en simultaneo, creación de productos, reviews de productos,
- sección de contacto, login gestión de usuarios, dashboard de administradores y pasarela de pagos</p>
+ <img src="https://imagizer.imageshack.com/img923/1334/jcu3hj.jpg" width="300" height="300"/> 
+<p>Es una Single Page Application donde se muestra las distinta razas de perros con información de cada una de las razas utilizando una API externa para obtener la informacion, teniendo la posiblidad de buscar una raza en especifico o filtrar por alguna caracteristica de la raza y tambien teniendo la posibilida de crear o eliminar una raza</p>
  
 🧍‍♂️Conectemos: 
 
