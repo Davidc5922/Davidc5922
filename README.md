@@ -38,15 +38,17 @@ hola soy David Cardenas tengo 18 y vivo en bogota/colombia👋
 
 🚀proyectos principales:
 
-
+<h1>GAED.JM</h1>
 [![Alt text](https://img.youtube.com/vi/XUWfz0tg2hg/0.jpg)](https://www.youtube.com/watch?v=XUWfz0tg2hg)
 <p>Proyecto de Henry Diseñar y desarrollar un E-commerce de de ropa
  que incluye: búsquedas, ordenamientos, filtrados en simultaneo, creación de productos, reviews de productos,
  sección de contacto, login gestión de usuarios, dashboard de administradores y pasarela de pagos</p>
+ <a href="https://gaed-jm-dusky.vercel.app/LandingPage"><p>Link</p></a>
 
- <img src="https://imagizer.imageshack.com/img923/1334/jcu3hj.jpg" width="300" height="300"/> 
+<h1>Wiki dogs</h1>
+ <img src="https://imagizer.imageshack.com/img923/1334/jcu3hj.jpg" width="350" height="350"/> 
 <p>Es una Single Page Application donde se muestra las distinta razas de perros con información de cada una de las razas utilizando una API externa para obtener la informacion, teniendo la posiblidad de buscar una raza en especifico o filtrar por alguna caracteristica de la raza y tambien teniendo la posibilida de crear o eliminar una raza</p>
- 
+  <a href="https://wiki-dogs-8dwg.vercel.app/"><p>Link</p></a>
 🧍‍♂️Conectemos: 
 
 
